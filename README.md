@@ -4,3 +4,4 @@ The first time when the form is loaded, all the previous data which was saved wi
 Any additional changes to this data like creation, updation or deletion will be allowed and there by giving an option to save the data.
 To create a new data I have used a button to add row in data grid view and similarly for update and delete.
 I have also included 2 extra buttons for refresh and clear-all, to make my work more easy.
+And thus all the new data or updated data will be serialized and saved.
