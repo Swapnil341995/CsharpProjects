@@ -1,0 +1,10 @@
+D:\AllCodeAtOnePlace\VisualStudio2017\MyLearning\MyWindowsForm\MyWindowsForm\bin\Debug\MyWindowsForm.exe.config
+D:\AllCodeAtOnePlace\VisualStudio2017\MyLearning\MyWindowsForm\MyWindowsForm\bin\Debug\MyWindowsForm.exe
+D:\AllCodeAtOnePlace\VisualStudio2017\MyLearning\MyWindowsForm\MyWindowsForm\bin\Debug\MyWindowsForm.pdb
+D:\AllCodeAtOnePlace\VisualStudio2017\MyLearning\MyWindowsForm\MyWindowsForm\obj\Debug\MyWindowsForm.csprojAssemblyReference.cache
+D:\AllCodeAtOnePlace\VisualStudio2017\MyLearning\MyWindowsForm\MyWindowsForm\obj\Debug\MyWindowsForm.Form1.resources
+D:\AllCodeAtOnePlace\VisualStudio2017\MyLearning\MyWindowsForm\MyWindowsForm\obj\Debug\MyWindowsForm.Properties.Resources.resources
+D:\AllCodeAtOnePlace\VisualStudio2017\MyLearning\MyWindowsForm\MyWindowsForm\obj\Debug\MyWindowsForm.csproj.GenerateResource.cache
+D:\AllCodeAtOnePlace\VisualStudio2017\MyLearning\MyWindowsForm\MyWindowsForm\obj\Debug\MyWindowsForm.csproj.CoreCompileInputs.cache
+D:\AllCodeAtOnePlace\VisualStudio2017\MyLearning\MyWindowsForm\MyWindowsForm\obj\Debug\MyWindowsForm.exe
+D:\AllCodeAtOnePlace\VisualStudio2017\MyLearning\MyWindowsForm\MyWindowsForm\obj\Debug\MyWindowsForm.pdb
